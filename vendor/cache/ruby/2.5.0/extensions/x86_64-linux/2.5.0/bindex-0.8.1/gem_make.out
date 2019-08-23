@@ -1,0 +1,15 @@
+current directory: /home/sangvo/Rails/railsTutorial/vendor/cache/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby2.5 -r ./siteconf20190823-21435-tx4wth.rb extconf.rb
+creating Makefile
+
+current directory: /home/sangvo/Rails/railsTutorial/vendor/cache/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/sangvo/Rails/railsTutorial/vendor/cache/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/sangvo/Rails/railsTutorial/vendor/cache/ruby/2.5.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20190823-21435-1cv86cw/skiptrace/internal
