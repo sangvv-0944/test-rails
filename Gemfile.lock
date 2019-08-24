@@ -127,6 +127,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    rb-readline (0.5.5)
     rubocop (0.54.0)
       parallel (~> 1.10)
       parser (>= 2.5)
@@ -197,6 +198,7 @@ DEPENDENCIES
   pg (= 0.20.0)
   puma (~> 3.7)
   rails (~> 5.1.4)
+  rb-readline
   rubocop (~> 0.54.0)
   sass-rails (~> 5.0)
   selenium-webdriver
@@ -208,4 +210,4 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 BUNDLED WITH
-   2.0.2
+   1.17.3
